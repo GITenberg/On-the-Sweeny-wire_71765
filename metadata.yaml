@@ -1,0 +1,25 @@
+_repo: On-the-Sweeny-wire_71765
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barnes, Charles R.
+    gutenberg_agent_id: '56389'
+    url: http://www.gutenberg.org/2009/agents/56389
+description: ''
+gutenberg_issued: '2023-10-01'
+identifiers:
+  gutenberg: '71765'
+language: en
+pgterms:marc904: https://archive.org/details/PopularMagazineV085N0319270820_201706/page/154
+pgterms:marc905: 20230818194316barnes
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: On the Sweeny wire
+url: http://www.gutenberg.org/ebooks/71765
