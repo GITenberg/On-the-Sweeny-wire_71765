@@ -1,11 +1,16 @@
 _repo: On-the-Sweeny-wire_71765
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71765-h/images/cover.jpg
 creator:
   author:
     agent_name: Barnes, Charles R.
     gutenberg_agent_id: '56389'
     url: http://www.gutenberg.org/2009/agents/56389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71765#On-the-Sweeny-wire
 gutenberg_issued: '2023-10-01'
 identifiers:
   gutenberg: '71765'
